@@ -1,4 +1,4 @@
-## Real-Time Object Detection Tool using Tensorflow JS###
+## Real-Time Object Detection Tool using Tensorflow JS
 
 ## Description:
 This is a realtime object detection tool that uses the coco-ssd model of Tensorflow JS 
