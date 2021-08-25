@@ -9,4 +9,4 @@ To run the app on your localhost:-
 2) Navigate to the directory in console and type `npm install` to install `node_modules` folder.
 3) Type `npm start` to run the app.
 
-Check out the live version of the app [here](https://60e97e757ad727db88098692--realtime-object-detection-tool.netlify.app).
+## Check out the live version of the app [here](https://60e97e757ad727db88098692--realtime-object-detection-tool.netlify.app).
